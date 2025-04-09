@@ -10,7 +10,7 @@ export const data = {
             id: 2,
             name: 'Siti Nida urrohmah',
             child: '(Majalengka)',
-            image: 'https://intancell.github.io/nikah/img/galeri/Nida.jpeg'
+            image: 'https://intancell.github.io/nikah/img/galeri/wanita.jpeg'
         },
 
         couple: './src/assets/images/couple.png'
